@@ -1,0 +1,13 @@
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.exe
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.deps.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.runtimeconfig.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.runtimeconfig.dev.json
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\bin\Debug\netcoreapp3.1\operadorscomparativos.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.csprojAssemblyReference.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.AssemblyInfoInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.AssemblyInfo.cs
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.csproj.CoreCompileInputs.cache
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.dll
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.pdb
+C:\Users\i-ire\Documents\LINGUAGENS DE PROGRAMAÇÃO\C#\ws-vs2019\operadorscomparativos\operadorscomparativos\obj\Debug\netcoreapp3.1\operadorscomparativos.genruntimeconfig.cache
